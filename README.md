@@ -1,4 +1,4 @@
-# React To-Do
+# Desafio Card NFT
 
 ![Status](http://img.shields.io/static/v1?label=Status&message=Finalizado&color=GREEN&style=for-the-badge)
 
