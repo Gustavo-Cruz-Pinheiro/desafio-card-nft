@@ -2,8 +2,6 @@
 
 ![Status](http://img.shields.io/static/v1?label=Status&message=Finalizado&color=GREEN&style=for-the-badge)
 
-![image](https://github.com/Gustavo-Cruz-Pinheiro/react-to-do/assets/54116994/5866a677-ca38-41a5-8e99-17fe7947fecb)
-
 O objetivo do projeto foi desenvolver um Card de um NFT utilizando HTML e CSS.
 
 ## 🛠 Tecnologias
