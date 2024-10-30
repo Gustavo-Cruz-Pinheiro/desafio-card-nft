@@ -4,6 +4,8 @@
 
 O objetivo do projeto foi desenvolver um Card de um NFT utilizando HTML e CSS.
 
+![Demonstração da Aplicação](./images/demo.png)
+
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -17,7 +19,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com/Gustavo-Cruz-Pinheiro/desafio-card-nft.git
+$ git clone https://github.com/Gustavo-Cruz-Pinheiro/desafio-card-nft.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd desafio-card-nft
