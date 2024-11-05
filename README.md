@@ -2,7 +2,7 @@
 
 ![Status](http://img.shields.io/static/v1?label=Status&message=Finalizado&color=GREEN&style=for-the-badge)
 
-O objetivo do projeto foi desenvolver um Card de um NFT utilizando HTML e CSS.
+O objetivo do projeto foi desenvolver um Card de um NFT utilizando HTML e CSS como parte de um desafio.
 
 ![Demonstração da Aplicação](./images/demo.png)
 
